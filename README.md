@@ -14,8 +14,12 @@ Before model training the dataset needed some preprocessing. The data is preproc
 ## Webpage Demonstration
 
 To provide a user-friendly interface for URL classification, a webpage is created. The webpage allows users to input a URL, and the ML model will classify it as either phishing or legitimate. The webpage also displays the confidence score and the reasoning behind the classification decision.
-
-![Webpage Screenshot](https://github.com/Anam-jafar/Phishing-URL-Detection/blob/main/Screenshots/Landing%20Page.png))
+### Landing Page
+![Webpage Screenshot](https://github.com/Anam-jafar/Phishing-URL-Detection/blob/main/Screenshots/Landing%20Page.png)
+### Legitimate URL detected
+![Webpage Screenshot](https://github.com/Anam-jafar/Phishing-URL-Detection/blob/main/Screenshots/Legitimate%20URL%20detected.png)
+### Phishing URL detected
+![Webpage Screenshot](https://github.com/Anam-jafar/Phishing-URL-Detection/blob/main/Screenshots/Phishing%20URL%20detected.png)
 
 ## Usage
 

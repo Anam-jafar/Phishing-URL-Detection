@@ -15,7 +15,7 @@ Before model training the dataset needed some preprocessing. The data is preproc
 
 To provide a user-friendly interface for URL classification, a webpage is created. The webpage allows users to input a URL, and the ML model will classify it as either phishing or legitimate. The webpage also displays the confidence score and the reasoning behind the classification decision.
 
-![Webpage Screenshot](Screenshots/'Landing Page.png')
+![Webpage Screenshot](Screenshots/Landing Page.png)
 
 ## Usage
 
